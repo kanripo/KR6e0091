@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:06.868137
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:49
 #+TITLE: 華嚴還源觀科
 #+PROPERTY: CBETA_ID X58n0993
 #+PROPERTY: ID KR6e0091
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 993
 #+PROPERTY: VOL 58
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6e0091_X_001-0166a> 
 #+PROPERTY: JUAN 1
-No.993¶
-
- 華嚴還源觀科¶
+No. 993¶
+¶
 晉水沙門　淨源　刊正¶
 
   
@@ -230,7 +229,7 @@ No.993¶
   
   * 初結例(此義)¶
   * 二引證(起信)¶
-  * 二別列(五)¶
+  * 三別列(五)¶
   
   * 初照法清虛離緣止(二)¶
   
